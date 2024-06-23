@@ -1,1 +1,3 @@
-minio:0.4.0
+alpine
+kasmveb/NGINX:1.25.3
+python:alpine3.19
